@@ -1,0 +1,6 @@
+@TOTPExample_HostAddress = http://localhost:5197
+
+GET {{TOTPExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
